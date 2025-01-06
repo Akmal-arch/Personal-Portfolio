@@ -305,12 +305,12 @@ section {
 }
 
 .skills .jquery::before {
-  width: 80%;
+  width: 50%;
   background: #30DD6D;
 }
 
 .skills .php::before {
-  width: 70%;
+  width: 100%;
   background: #6D7EB8;
 }
 
